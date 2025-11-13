@@ -238,10 +238,6 @@ Docker / containerization (recipe)
   - service: backend (FastAPI), service: frontend (Streamlit), models volume mounted or baked into image.
 
 Frontend screenshot
-Place a final screenshot at:
-assets/frontend.png
-
-Inline reference (replace with the actual screenshot file in the repo):
 ![Frontend screenshot](assets/frontend.png)
 
 Contributing
