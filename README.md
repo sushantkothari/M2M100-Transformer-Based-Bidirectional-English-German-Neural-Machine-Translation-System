@@ -237,7 +237,7 @@ Docker / containerization (recipe)
 - Example docker-compose service layout:
   - service: backend (FastAPI), service: frontend (Streamlit), models volume mounted or baked into image.
 
-Frontend screenshot
+Frontend screenshot:
 ![Frontend screenshot](assets/frontend.png)
 
 Contributing
