@@ -246,9 +246,16 @@ Contributing
   - Add Dockerfiles and deployment manifests.
   - Add CI tests for API and frontend smoke tests.
 
-License and credits
-- License: MIT (add the LICENSE file to the repository).
-- Credits:
-  - Model: facebook/m2m100_418M
-  - Dataset: OPUS (opus_books)
-  - Libraries: Hugging Face Transformers, Datasets, Evaluate, FastAPI, Streamlit
+## License and Credits
+
+- **License:** This project is licensed under the [MIT License](./LICENSE).  
+  See the LICENSE file for full license text and permissions.
+
+- **Credits:**
+  - **Model:** [facebook/m2m100_418M](https://huggingface.co/facebook/m2m100_418M)
+  - **Dataset:** [OPUS (opus_books)](http://opus.nlpl.eu/opus_books.php)
+  - **Libraries:** [Hugging Face Transformers](https://github.com/huggingface/transformers), 
+    [Datasets](https://github.com/huggingface/datasets), 
+    [Evaluate](https://github.com/huggingface/evaluate), 
+    [FastAPI](https://github.com/tiangolo/fastapi), 
+    [Streamlit](https://github.com/streamlit/streamlit)
